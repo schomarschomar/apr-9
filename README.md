@@ -3,7 +3,7 @@
   <h3 align="center">GitHub for Managers<br></h3>
 
   <p align="center">
-    Learn and Build with GitHub.
+    Learn and Build with GitHub. Now.
     <br>
   </p>
 </p>
